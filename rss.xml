@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[meynardie family website]]></title>
+        <description><![CDATA[meynardie family website]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jul 2016 17:37:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[dinnertable: A 20-Seat Speakeasy-Style Restaurant]]></title>
+            <description><![CDATA[<article><h1>dinnertable: A 20-Seat Speakeasy-Style Restaurant</h1><p>The sign beside the interior door reads "Press for Food." If you're in front of it, you've just walked through the bustling East Village cocktail bar The Garret East, beyond a curtain, into a petite corridor. A push of the analog button sends a chime to the inside and you're promptly greeted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/682b41fef064cf8db469586081efdcf85b09289c.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/food-drink/dinnertable-restaurant-east-village</link>
+            <guid isPermaLink="false">62b36020-2858-4284-b7db-e84ccac22c73</guid>
+            <pubDate>Fri, 29 Jul 2016 17:37:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
